@@ -7,52 +7,45 @@ using System.Linq;
 using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
-using WebStore.Models;
 using WebStore.Reposiroty.Interface;
 using WebStore.Service.IService;
 
 
 namespace WebStore.Service
-{
+{ 
 
-
-    public class UserService : IUserService
-    {
-        private readonly IUserRepository _userRepository;
-        private readonly IConfiguration _configuration;
-
-        public UserService(IUserRepository userRepository, IConfiguration configuration)
+    
+        public class UserService : IUserService
         {
-            _userRepository = userRepository;
-            _configuration = configuration;
-        }
+            private readonly IUserRepository _userRepository;
+            private readonly IConfiguration _configuration;
 
-        public async Task<ApiResponse<string>> Authenticate(string username, string password)
-        {
-            var user = await _userRepository.GetUserByUsernameAndPassword(username, password);
-            if (user == null)
+            public UserService(IUserRepository userRepository, IConfiguration configuration)
             {
-                return new ApiResponse<string>(false, "Authentication failed. Invalid username or password.", null);
+                _userRepository = userRepository;
+                _configuration = configuration;
             }
 
-            // Create JWT token
-            var tokenHandler = new JwtSecurityTokenHandler();
-            var key = Encoding.ASCII.GetBytes(_configuration["Jwt:Key"]);
-            var tokenDescriptor = new SecurityTokenDescriptor
+            public async Task<string> Authenticate(string username, string password)
             {
-                Subject = new ClaimsIdentity(new Claim[]
+                var user = await _userRepository.GetUserByUsernameAndPassword(username, password);
+                if (user == null) return null;
+
+                // Tạo token JWT
+                var tokenHandler = new JwtSecurityTokenHandler();
+                var key = Encoding.ASCII.GetBytes(_configuration["Jwt:Key"]);
+                var tokenDescriptor = new SecurityTokenDescriptor
                 {
-                new Claim(ClaimTypes.Name, user.Username)
-                }),
-                Expires = DateTime.UtcNow.AddHours(1),
-                SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
-            };
-            var token = tokenHandler.CreateToken(tokenDescriptor);
-            var tokenString = tokenHandler.WriteToken(token);
-
-            return new ApiResponse<string>(true, "Authentication successful", tokenString);
+                    Subject = new ClaimsIdentity(new Claim[]
+                    {
+                    new Claim(ClaimTypes.Name, user.Username)
+                    }),
+                    Expires = DateTime.UtcNow.AddHours(1),
+                    SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
+                };
+                var token = tokenHandler.CreateToken(tokenDescriptor);
+                return tokenHandler.WriteToken(token);
+            }
         }
-    }
-
-
 }
+    
