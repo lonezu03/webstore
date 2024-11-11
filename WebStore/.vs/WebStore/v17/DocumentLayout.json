@@ -1,0 +1,520 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projec\\C#\\backend\\WebStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Migrations\\20241111050634_Initilmagration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebStore\\Migrations\\20241111050634_Initilmagration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Migrations\\20241111050448_Initilmagration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebStore\\Migrations\\20241111050448_Initilmagration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\entity\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\entity\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\entity\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\entity\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\entity\\shipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\entity\\shipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\entity\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\entity\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\entity\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\entity\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\entity\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\entity\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\entity\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\entity\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\entity\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\entity\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\entity\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\entity\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\service\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\service\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\service\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\service\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\repository\\userreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\repository\\userreponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\repository\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\repository\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|f:\\projec\\c#\\backend\\webstore\\webstore\\webstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3ED675C-E395-47EB-B842-66FAAF10C58D}|WebStore\\WebStore.csproj|solutionrelative:webstore\\webstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Program.cs",
+              "RelativeDocumentMoniker": "WebStore\\Program.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Program.cs",
+              "RelativeToolTip": "WebStore\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:00:18.819Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241111050634_Initilmagration.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Migrations\\20241111050634_Initilmagration.cs",
+              "RelativeDocumentMoniker": "WebStore\\Migrations\\20241111050634_Initilmagration.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Migrations\\20241111050634_Initilmagration.cs",
+              "RelativeToolTip": "WebStore\\Migrations\\20241111050634_Initilmagration.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAIwMgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:06:34.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241111050448_Initilmagration.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Migrations\\20241111050448_Initilmagration.cs",
+              "RelativeDocumentMoniker": "WebStore\\Migrations\\20241111050448_Initilmagration.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Migrations\\20241111050448_Initilmagration.cs",
+              "RelativeToolTip": "WebStore\\Migrations\\20241111050448_Initilmagration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:04:48.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Material.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Material.cs",
+              "RelativeDocumentMoniker": "WebStore\\Entity\\Material.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Material.cs",
+              "RelativeToolTip": "WebStore\\Entity\\Material.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:25:06.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Inventory.cs",
+              "RelativeDocumentMoniker": "WebStore\\Entity\\Inventory.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Inventory.cs",
+              "RelativeToolTip": "WebStore\\Entity\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:18:54.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Gender.cs",
+              "RelativeDocumentMoniker": "WebStore\\Entity\\Gender.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Gender.cs",
+              "RelativeToolTip": "WebStore\\Entity\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:25:40.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Color.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Color.cs",
+              "RelativeDocumentMoniker": "WebStore\\Entity\\Color.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Color.cs",
+              "RelativeToolTip": "WebStore\\Entity\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:17:05.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "WebStore\\Entity\\Category.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Category.cs",
+              "RelativeToolTip": "WebStore\\Entity\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:17:18.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "WebStore\\Controllers\\ValuesController.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "WebStore\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwBkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:25:47.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebStore\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebStore\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:53:15.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebStore\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebStore\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:11:24.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Order.cs",
+              "RelativeDocumentMoniker": "WebStore\\Entity\\Order.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Order.cs",
+              "RelativeToolTip": "WebStore\\Entity\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:20:17.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\OrderItem.cs",
+              "RelativeDocumentMoniker": "WebStore\\Entity\\OrderItem.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\OrderItem.cs",
+              "RelativeToolTip": "WebStore\\Entity\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:20:30.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Variant.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Variant.cs",
+              "RelativeDocumentMoniker": "WebStore\\Entity\\Variant.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Variant.cs",
+              "RelativeToolTip": "WebStore\\Entity\\Variant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:16:23.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "WebStore\\Entity\\User.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\User.cs",
+              "RelativeToolTip": "WebStore\\Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:58:52.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Size.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Size.cs",
+              "RelativeDocumentMoniker": "WebStore\\Entity\\Size.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Size.cs",
+              "RelativeToolTip": "WebStore\\Entity\\Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:16:48.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shipping.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Shipping.cs",
+              "RelativeDocumentMoniker": "WebStore\\Entity\\Shipping.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Shipping.cs",
+              "RelativeToolTip": "WebStore\\Entity\\Shipping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:20:03.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "WebStore\\Entity\\Product.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Product.cs",
+              "RelativeToolTip": "WebStore\\Entity\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:58:56.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Address.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Address.cs",
+              "RelativeDocumentMoniker": "WebStore\\Entity\\Address.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Address.cs",
+              "RelativeToolTip": "WebStore\\Entity\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:19:34.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Image.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Image.cs",
+              "RelativeDocumentMoniker": "WebStore\\Entity\\Image.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Entity\\Image.cs",
+              "RelativeToolTip": "WebStore\\Entity\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:17:38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "WebStore\\Service\\ProductService.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Service\\ProductService.cs",
+              "RelativeToolTip": "WebStore\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:06:08.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "WebStore\\Service\\UserService.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Service\\UserService.cs",
+              "RelativeToolTip": "WebStore\\Service\\UserService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:06:41.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Service\\IService\\IUserService.cs",
+              "RelativeDocumentMoniker": "WebStore\\Service\\IService\\IUserService.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Service\\IService\\IUserService.cs",
+              "RelativeToolTip": "WebStore\\Service\\IService\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:06:50.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Service\\IService\\IProductService.cs",
+              "RelativeDocumentMoniker": "WebStore\\Service\\IService\\IProductService.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Service\\IService\\IProductService.cs",
+              "RelativeToolTip": "WebStore\\Service\\IService\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:05:39.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserReponsitory.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Repository\\UserReponsitory.cs",
+              "RelativeDocumentMoniker": "WebStore\\Repository\\UserReponsitory.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Repository\\UserReponsitory.cs",
+              "RelativeToolTip": "WebStore\\Repository\\UserReponsitory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:26:20.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "WebStore\\Repository\\ProductRepository.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "WebStore\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:26:09.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Repository\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WebStore\\Repository\\Interface\\IUserRepository.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Repository\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "WebStore\\Repository\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:14:00.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Repository\\Interface\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "WebStore\\Repository\\Interface\\IProductRepository.cs",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\Repository\\Interface\\IProductRepository.cs",
+              "RelativeToolTip": "WebStore\\Repository\\Interface\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T15:14:25.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\appsettings.json",
+              "RelativeDocumentMoniker": "WebStore\\appsettings.json",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\appsettings.json",
+              "RelativeToolTip": "WebStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T13:59:48.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WebStore.csproj",
+              "DocumentMoniker": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\WebStore.csproj",
+              "RelativeDocumentMoniker": "WebStore\\WebStore.csproj",
+              "ToolTip": "F:\\Projec\\C#\\backend\\WebStore\\WebStore\\WebStore.csproj",
+              "RelativeToolTip": "WebStore\\WebStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-10T13:56:11.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
