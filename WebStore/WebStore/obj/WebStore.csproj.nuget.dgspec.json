@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GITHUB\\webstore\\WebStore\\WebStore\\WebStore.csproj": {}
+    "D:\\Git\\webstore\\WebStore\\WebStore\\WebStore.csproj": {}
   },
   "projects": {
-    "D:\\GITHUB\\webstore\\WebStore\\WebStore\\WebStore.csproj": {
+    "D:\\Git\\webstore\\WebStore\\WebStore\\WebStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GITHUB\\webstore\\WebStore\\WebStore\\WebStore.csproj",
+        "projectUniqueName": "D:\\Git\\webstore\\WebStore\\WebStore\\WebStore.csproj",
         "projectName": "WebStore",
-        "projectPath": "D:\\GITHUB\\webstore\\WebStore\\WebStore\\WebStore.csproj",
+        "projectPath": "D:\\Git\\webstore\\WebStore\\WebStore\\WebStore.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\GITHUB\\webstore\\WebStore\\WebStore\\obj\\",
+        "outputPath": "D:\\Git\\webstore\\WebStore\\WebStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
