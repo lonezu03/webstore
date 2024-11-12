@@ -10,7 +10,7 @@ namespace ApiWebQuanAo.Web.Controllers
 {
     [Route("api/users")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class UserController : ControllerBase
     {
             
         private readonly IUserService _userService;
@@ -18,7 +18,7 @@ namespace ApiWebQuanAo.Web.Controllers
         private readonly ApplicationDbContext _context;
 
         // Constructor nhận DbContext từ DI container
-        public ValuesController(ApplicationDbContext context)
+        public UserController(ApplicationDbContext context)
         {
             _context = context;
         }

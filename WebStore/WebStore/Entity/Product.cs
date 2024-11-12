@@ -14,8 +14,8 @@ namespace WebStore.Entity
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public int? MaterialId { get; set; }
-        public int? GenderId { get; set; }
+        public int Material_Id { get; set; }
+        public int Gender_Id { get; set; }
 
         public Material Material { get; set; }
         public Gender Gender { get; set; }
